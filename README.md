@@ -1,0 +1,76 @@
+
+
+## Who am I? 
+
+```js
+export default function Introduction () {
+    name: string = "Lucas Molina Miranda";
+    idade: number = 24;
+    frontendExperience: string = "5+ years"
+};
+```
+
+
+
+
+## 💼 Work Experience
+Below, you'll be able to find a brief about my last work experiences, see more at [**Linkedin**](https://www.linkedin.com/in/lucas-miranda-365b93140/):
+
+[<img align="left" height="110px" width="110px" alt="GFT Logo" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFiyyEUZjtqTg/company-logo_200_200/0/1625125201022?e=1678320000&v=beta&t=6v-qCwJZhhP9CzKgaERxxf7fzLQIAsol4DMcIGoubcU"/>](https://www.gft.com)
+
+**Sr. Software Engineer** (client: Itaú Bank) \
+[**GFT Group**](https://www.gft.com) • Full-time • São Paulo, BR \
+Stacks and Techs: `Angular 2+`, `ReactJS`, `NextJS`, `Typescript`, `NodeJS`, `AWS`, `Strapi`, `ContentStack`, `GitLab`\
+Other Skills: `Agile`, `Scrum`, `Front-End Leadership`, `Improvement Ideation`
+<br/> <br />
+
+
+
+[<img align="left" height="110px" width="110px" alt="Raisin Logo" src="https://media-exp1.licdn.com/dms/image/C560BAQGz9FQVATVRAQ/company-logo_200_200/0/1647426086850?e=1678320000&v=beta&t=0AAm-IqdsBZmiRQh4tUPfdmvGtaKIxiNda4KN1Z26TI"/>](https://www.weltsparen.de)
+
+**Software Engineer** \
+[**Raisin GmbH**](https://www.weltsparen.de) • Full-time  • Berlin, DE\
+Stacks and Techs: `Angular 2+`, `ReactJS`, `NextJS`, `Typescript`, `NodeJS`, `AWS`, `ContentStack`, `GitLab`\
+Other Skills: `Agile`, `Scrum`, `Self-organization`
+<br/>
+<br/>
+
+
+
+[<img align="left" height="115px" width="115px" alt="Avanade Logo" src="https://media-exp1.licdn.com/dms/image/C560BAQFxrZyVGOSXBg/company-logo_200_200/0/1663568656074?e=1678320000&v=beta&t=SRS5UyLplrWq-EPrnR1wAWQ1jhIqFDfMNZxupq61y4A"/>](https://www.avanade.com)
+
+**Software Consultant** (client: Safra Bank) \
+[**Avanade**](https://www.avanade.com) • Full-time \
+Stacks and Techs: `React Native`, `Typescript`, `Azure Infra`, `GitLab`\
+Other Skills: `Agile`, `Scrum`, `Self-organization`, `Bug Fixes`
+<br/>
+
+
+
+## 🚀 My Skills
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 0 8%">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
+</div>
+
+## 💬 Contato
+
+<div style="display: flex; justify-content: center; align-items: center; padding: 0 100px; width: 100%">
+
+<a href="https://www.linkedin.com/in/lucas-miranda-365b93140/" style="margin-right: 1%">
+<img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/
+</a>
+<a href="https://wa.me/+5511940335342">
+<img height="40" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEUwJZ-zBaZsQ/company-logo_200_200/0/1520394059179?e=1678320000&v=beta&t=8PuIcJE_n3Q_pAKoVFflqoGUrpRljHseBUZs7HtolnQ" alt="Whatsapp"/>
+</a>
+</div>
+
+---
