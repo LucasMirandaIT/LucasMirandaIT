@@ -37,13 +37,13 @@ Other Skills: `Agile`, `Scrum`, `Self-organization`
 
 
 
-[<img align="left" height="115px" width="115px" alt="Avanade Logo" src="https://media-exp1.licdn.com/dms/image/C560BAQFxrZyVGOSXBg/company-logo_200_200/0/1663568656074?e=1678320000&v=beta&t=SRS5UyLplrWq-EPrnR1wAWQ1jhIqFDfMNZxupq61y4A"/>](https://www.avanade.com)
+[<img align="left" height="110px" width="110px" alt="Avanade Logo" src="https://media-exp1.licdn.com/dms/image/C560BAQFxrZyVGOSXBg/company-logo_200_200/0/1663568656074?e=1678320000&v=beta&t=SRS5UyLplrWq-EPrnR1wAWQ1jhIqFDfMNZxupq61y4A"/>](https://www.avanade.com)
 
 **Software Consultant** (client: Safra Bank) \
 [**Avanade**](https://www.avanade.com) • Full-time \
 Stacks and Techs: `React Native`, `Typescript`, `Azure Infra`, `GitLab`\
 Other Skills: `Agile`, `Scrum`, `Self-organization`, `Bug Fixes`
-<br/>
+<br/><br/>
 
 
 
