@@ -68,9 +68,6 @@ Other Skills: `Agile`, `Scrum`, `Self-organization`, `Bug Fixes`
 <a href="https://www.linkedin.com/in/lucas-miranda-365b93140/" style="margin-right: 1%">
 <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/
 </a>
-<a href="https://wa.me/+5511940335342">
-<img height="40" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEUwJZ-zBaZsQ/company-logo_200_200/0/1520394059179?e=1678320000&v=beta&t=8PuIcJE_n3Q_pAKoVFflqoGUrpRljHseBUZs7HtolnQ" alt="Whatsapp"/>
-</a>
 </div>
 
 ---
