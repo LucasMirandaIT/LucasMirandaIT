@@ -1,6 +1,6 @@
 
 
-## 💁 Who am I? 
+## 💁 About
 
 ```js
 export default function Introduction () {
