@@ -16,7 +16,7 @@ export default function Introduction () {
 ## 💼 Work Experience
 Below, you'll be able to find a brief about my last work experiences, see more at [**Linkedin**](https://www.linkedin.com/in/lucas-miranda-365b93140/):
 
-[<img align="left" height="110px" width="110px" alt="GFT Logo" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFiyyEUZjtqTg/company-logo_200_200/0/1625125201022?e=1678320000&v=beta&t=6v-qCwJZhhP9CzKgaERxxf7fzLQIAsol4DMcIGoubcU"/>](https://www.gft.com)
+[<img align="left" height="110px" width="110px" alt="GFT Logo" src="https://raw.githubusercontent.com/LucasMirandaIT/LucasMirandaIT/main/images/GFT.png"/>](https://www.gft.com)
 
 **Sr. Software Engineer** (client: Itaú Bank) \
 [**GFT Group**](https://www.gft.com) • Full-time • São Paulo, BR \
@@ -26,7 +26,7 @@ Other Skills: `Agile`, `Scrum`, `Front-End Leadership`, `Improvement Ideation`
 
 
 
-[<img align="left" height="110px" width="110px" alt="Raisin Logo" src="https://media-exp1.licdn.com/dms/image/C560BAQGz9FQVATVRAQ/company-logo_200_200/0/1647426086850?e=1678320000&v=beta&t=0AAm-IqdsBZmiRQh4tUPfdmvGtaKIxiNda4KN1Z26TI"/>](https://www.weltsparen.de)
+[<img align="left" height="110px" width="110px" alt="Raisin Logo" src="https://raw.githubusercontent.com/LucasMirandaIT/LucasMirandaIT/main/images/Raisin.png"/>](https://www.weltsparen.de)
 
 **Software Engineer** \
 [**Raisin GmbH**](https://www.weltsparen.de) • Full-time  • Berlin, DE\
@@ -37,7 +37,7 @@ Other Skills: `Agile`, `Scrum`, `Self-organization`
 
 
 
-[<img align="left" height="110px" width="110px" alt="Avanade Logo" src="https://media-exp1.licdn.com/dms/image/C560BAQFxrZyVGOSXBg/company-logo_200_200/0/1663568656074?e=1678320000&v=beta&t=SRS5UyLplrWq-EPrnR1wAWQ1jhIqFDfMNZxupq61y4A"/>](https://www.avanade.com)
+[<img align="left" height="110px" width="110px" alt="Avanade Logo" src="https://raw.githubusercontent.com/LucasMirandaIT/LucasMirandaIT/main/images/Avanade.png"/>](https://www.avanade.com)
 
 **Software Consultant** (client: Safra Bank) \
 [**Avanade**](https://www.avanade.com) • Full-time \
