@@ -65,7 +65,7 @@ Other Skills: `Agile`, `Scrum`, `Self-organization`, `Bug Fixes`
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 0 100px; width: 100%">
 
-<a href="https://www.linkedin.com/in/lucas-miranda-365b93140/" style="margin-right: 1%">
+<a href="https://www.linkedin.com/in/lucas-molina-miranda/" style="margin-right: 1%">
 <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/
 </a>
 </div>
