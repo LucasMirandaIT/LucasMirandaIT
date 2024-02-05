@@ -5,8 +5,8 @@
 ```js
 export default function Introduction () {
     name: string = "Lucas Molina Miranda";
-    idade: number = 24;
-    frontendExperience: string = "5+ years"
+    idade: number = 25;
+    frontendExperience: string = "6+ years"
 };
 ```
 
